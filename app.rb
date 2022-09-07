@@ -9,7 +9,7 @@ configure :development do
 end
 
 get "/" do
-  @usernames = ["ssaunier", "Papillard", "nope"]
+  @usernames = ["yup", "nup", "nope"]
   erb :index
 end
 
