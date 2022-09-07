@@ -6,4 +6,3 @@ gem "pry-byebug"
 gem "sinatra"
 gem "sinatra-contrib"
 gem "thin"
-gem 'vite_ruby'
